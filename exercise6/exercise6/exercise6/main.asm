@@ -1,9 +1,10 @@
 ;
-; HelloWorld.asm
+; exercise6.asm
 ;
-; Created: 3/7/2018 9:21:47 PM
-; Author : chfs
+; Created: 3/13/2018 11:56:56 AM
+; Author : Radu
 ;
+
 	; ddrc
                             ; SETUP
     ldi r16, 0xff           ; load the bit pattern 1111 1111 into r16
